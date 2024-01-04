@@ -10,7 +10,7 @@ html {
     text-align: center;
     color: black;
     background-color: rgb(98, 154, 232);
-    margin-bottom: 20px;
+    margin-bottom: 100px;
     padding: 10px;
     border-style: solid;
     border-width: 10px;
@@ -21,4 +21,27 @@ html {
     font-family: 'Press Start 2P';
     font-weight: bold;
     text-align: center;
+}
+
+.container {
+    height: 200px;
+    position: relative;
+    text-align: center;
+}
+
+.button {
+    width: 300px;
+    height: 70px;
+    margin-top: 100px;
+    /* margin: 0;
+    position: absolute; */
+    text-align: center;
+    border-style: solid;
+    border-width: 5px;
+    border-radius: 20px;
+    font-family: 'Rubik Doodle Shadow';
+    background-color: rgb(245, 185, 46);
+    font-size: 20px;
+    font-weight: bolder;
+    cursor: pointer;
 }
