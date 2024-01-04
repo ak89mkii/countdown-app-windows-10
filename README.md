@@ -35,7 +35,7 @@
 // 
 
 #### Images References / Credits:
-//
+// https://thenounproject.com/icon/timer-5101027/
 
 #### Sounds References / Credits:
 //
@@ -46,3 +46,4 @@
 ## Helpful Resources:
 // https://stackoverflow.com/questions/9335140/how-to-countdown-to-a-date
 // https://stackoverflow.com/questions/26890675/can-i-add-a-style-tag-to-innerhtml
+// https://www.w3schools.com/html/html_favicon.asp
