@@ -45,3 +45,4 @@
 
 ## Helpful Resources:
 // https://stackoverflow.com/questions/9335140/how-to-countdown-to-a-date
+// https://stackoverflow.com/questions/26890675/can-i-add-a-style-tag-to-innerhtml
