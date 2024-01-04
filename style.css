@@ -1,0 +1,18 @@
+html {
+    height: 100%;
+    width: 100%;
+  }
+  
+  .title {
+    font-size: 60px;
+    font-family: 'Rubik Doodle Shadow';
+    text-align: center;
+    color: black;
+  }
+  
+  #countdown {
+    font-size: 40px;
+    font-family: 'Press Start 2P';
+    font-weight: bold;
+    text-align: center;
+  }
