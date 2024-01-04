@@ -6,7 +6,7 @@
 https://wintencount.surge.sh/
 
 ## Screenshots:
-![Screenshot](/image/01.png)
+![Screenshot](/images/01.png)
 
 ## Technologies Used:
 #### Front-End:
