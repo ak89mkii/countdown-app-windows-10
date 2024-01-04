@@ -1,6 +1,6 @@
-# Windows 10 End of Support Countdown
+# Windows 10 End of Support Countdown App
 ## Description:
-<!-- (STACK) | DESCRIPTION_OF_PROJECT. -->
+(Front-End, JavaScript) | A countdown app to the end of Microsoft Windows 10 support.
 
 ## Deployment Link:
 <!-- URL_GOES_HERE -->
