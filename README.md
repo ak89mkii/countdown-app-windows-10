@@ -6,11 +6,13 @@
 https://wintencount.surge.sh/
 
 ## Screenshots:
-<!-- ![Screenshot](LOCATION_OF_FILE) -->
+![Screenshot](/image/01.png)
 
 ## Technologies Used:
 #### Front-End:
-- 
+- CSS3
+- HTML5
+- JavaScript
 #### Back-End:
 - 
 #### Packages:
@@ -26,7 +28,7 @@ https://wintencount.surge.sh/
 //
 
 #### Deployment:
-// 
+// surge.sh
 
 #### Deployment Troubleshooting:
 // 
