@@ -3,7 +3,7 @@
 (Front-End, JavaScript) | A countdown app to the end of Microsoft Windows 10 support.
 
 ## Deployment Link:
-<!-- URL_GOES_HERE -->
+https://wintencount.surge.sh/
 
 ## Screenshots:
 <!-- ![Screenshot](LOCATION_OF_FILE) -->
@@ -32,6 +32,7 @@
 // 
 
 #### Information References:
+// https://learn.microsoft.com/en-us/lifecycle/products/windows-10-home-and-pro
 // 
 
 #### Images References / Credits:
@@ -47,3 +48,5 @@
 // https://stackoverflow.com/questions/9335140/how-to-countdown-to-a-date
 // https://stackoverflow.com/questions/26890675/can-i-add-a-style-tag-to-innerhtml
 // https://www.w3schools.com/html/html_favicon.asp
+// https://stackoverflow.com/questions/2906582/how-do-i-create-an-html-button-that-acts-like-a-link
+// https://stackoverflow.com/questions/8762201/how-to-get-the-cursor-to-change-to-the-hand-when-hovering-a-button-tag
