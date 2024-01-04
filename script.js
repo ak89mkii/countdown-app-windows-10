@@ -29,9 +29,9 @@ function CountDownTimer(dt, id) {
 
     document.getElementById(id).innerHTML = "<u>" + years + "</u>" + ' Year(s) ' + "<br><br>";
     document.getElementById(id).innerHTML += "<u>" + days + "</u>" +  ' Day(s) ' + "<br><br>";
-    document.getElementById(id).innerHTML += hours + ' HOUR(S) ' + "<br><br>";
-    document.getElementById(id).innerHTML += minutes + ' MINUTE(S) ' + "<br><br>";
-    document.getElementById(id).innerHTML += seconds + ' SECOND(S) ';
+    document.getElementById(id).innerHTML += "<u>" + hours + "</u>" + ' Hour(s) ' + "<br><br>";
+    document.getElementById(id).innerHTML += "<u>" + minutes + "</u>" +  ' Minute(s) ' + "<br><br>";
+    document.getElementById(id).innerHTML += "<u>" + seconds + "</u>" +  ' Second(s) ';
   }
 
   timer = setInterval(showRemaining, 1000);
