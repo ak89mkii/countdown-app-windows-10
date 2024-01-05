@@ -10,7 +10,7 @@ body {
 .title {
     font-size: 30px;
     font-family: 'Rubik Doodle Shadow';
-    font-weight: bold;
+    font-weight: bolder;
     text-align: center;
     color: black;
     background-color: rgb(98, 154, 232);
