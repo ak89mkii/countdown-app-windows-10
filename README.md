@@ -13,10 +13,11 @@ https://wintencount.surge.sh/
 - CSS3
 - HTML5
 - JavaScript
+- Bootstrap v5.3
 #### Back-End:
 - 
 #### Packages:
-- 
+- Bootstrap v5.3
 #### Version Control:
 - Git
 - GitHub
@@ -35,10 +36,11 @@ https://wintencount.surge.sh/
 
 #### Information References:
 // https://learn.microsoft.com/en-us/lifecycle/products/windows-10-home-and-pro
-// 
+// https://getbootstrap.com/docs/5.3/getting-started/introduction/
 
 #### Images References / Credits:
 // https://thenounproject.com/icon/timer-5101027/
+// https://icons.getbootstrap.com/icons/github/
 
 #### Sounds References / Credits:
 //
