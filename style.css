@@ -1,23 +1,28 @@
 html {
     height: 100%;
     width: 100%;
+}
+
+body {
     background-color: rgb(0, 255, 132);
 }
   
 .title {
     font-size: 30px;
     font-family: 'Rubik Doodle Shadow';
+    font-weight: bold;
     text-align: center;
     color: black;
     background-color: rgb(98, 154, 232);
+    margin-top: 10px;
     margin-bottom: 100px;
     padding: 10px;
-    border-style: solid;
-    border-width: 10px;
+    /* border-style: solid;
+    border-width: 10px; */
 }
   
 #countdown {
-    font-size: 40px;
+    font-size: 30px;
     font-family: 'Press Start 2P';
     font-weight: bold;
     text-align: center;
@@ -29,7 +34,7 @@ html {
     text-align: center;
 }
 
-.button {
+#button {
     width: 300px;
     height: 70px;
     margin-top: 100px;
@@ -37,11 +42,16 @@ html {
     position: absolute; */
     text-align: center;
     border-style: solid;
-    border-width: 5px;
-    border-radius: 20px;
     font-family: 'Rubik Doodle Shadow';
-    background-color: rgb(245, 185, 46);
+    /* background-color: rgb(245, 185, 46); */
     font-size: 20px;
     font-weight: bolder;
     cursor: pointer;
+}
+
+.btn {
+    font-family: 'Rubik Doodle Shadow';
+    font-weight: bolder;
+    cursor: pointer;
+    /* color: white; */
 }
